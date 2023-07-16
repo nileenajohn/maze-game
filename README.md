@@ -6,6 +6,7 @@ When the game runs, a maze will be randomly created for you.
 In the top left corner, a light pink square will be displayed, representing the 
 start square, where the player starts the game. In the bottom right corner, 
 a dark pink square will be displayed, representing the end square.  
+
 To win, the player must use their arrow keys (left, right, up, down)
 to navigate through the maze and reach the end square. There are horizontal
 and vertical lines throughout the maze, called walls, which will block the player
