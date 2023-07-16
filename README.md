@@ -15,9 +15,15 @@ blocked by a wall.
 # Game options:
 "up" - When the up arrow key is pressed, the player will move up if there is no wall in
 the way and it is within the bounds of the game
+
 "down" -  When the down arrow key is pressed, the player will move down if there is no wall in the way and it is within the bounds of the game
+
 "left" - When the left arrow key is pressed, the player will move left if there is no wall in the way and it is within the bounds of the game
+
 "right" -  When the right arrow key is pressed, the player will move right if there is no wall in the way and it is within the bounds of the game
+
 "r" - When the r key is pressed, the game will reset and a new maze will be randomly created
+
 "b" - When the b key is pressed, the path found by breadth first search will be displayed
+
 "d" - When the d key is pressed, the path found by depth first search will be displayed
